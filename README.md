@@ -1,3 +1,3 @@
-# hyper-simple-highlight-active-session
+# hyper-highlight-active-pane
 
-<img src="https://github.com/matheuss/hyper-simple-highlight-active-session/blob/master/screenshot.gif?raw=true"/>
+<img src="https://github.com/yebrahim/hyper-highlight-active-pane/blob/master/screenshot.gif?raw=true"/>
